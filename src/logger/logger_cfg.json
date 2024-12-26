@@ -1,0 +1,13 @@
+{
+    "init": {
+        "init_message": "Logger is initialized.",
+        "save_path": null,
+        "level": "INFO",
+        "file_name": "system_log.txt",
+        "is_saved": true,
+        "is_print": true,
+        "save_time": true,
+        "message_format": "[{}]:[{}]:\n{} "
+    }
+
+}
